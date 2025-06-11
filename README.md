@@ -35,8 +35,7 @@ Welcome to my GitHub profile! I'm passionate about computer science, coding, and
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/anaghbdeshpande/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=white&style=flat-square)](https://leetcode.com/u/Anagh_B/)
-<br>
-<img src="https://img.shields.io/badge/Discord-AnaghDeshpande%232848-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord">
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square)](https://discordapp.com/users/1056233446067949610)
 
 ---
 ![AnaghDeshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaghDeshpande&show_icons=true)

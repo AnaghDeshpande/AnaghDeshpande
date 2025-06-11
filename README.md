@@ -39,5 +39,6 @@ Welcome to my GitHub profile! I'm passionate about computer science, coding, and
 <img src="https://img.shields.io/badge/Discord-AnaghDeshpande%232848-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord">
 
 ---
+![AnaghDeshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaghDeshpande&show_icons=true)
 
 *Thanks for stopping by!*

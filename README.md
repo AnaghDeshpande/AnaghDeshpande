@@ -41,3 +41,5 @@ Welcome to my GitHub profile! I'm passionate about computer science, coding, and
 ![AnaghDeshpande's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaghDeshpande&show_icons=true)
 
 *Thanks for stopping by!*
+
+![Profile Views](https://komarev.com/ghpvc/?username=AnaghDeshpande&label=Profile%20views&color=0e75b6&style=flat)

@@ -27,8 +27,6 @@ Welcome to my GitHub profile! I'm passionate about computer science, coding, and
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="32" height="32"/>
 </p>
 
-### testing
-
 ## GitHub Analytics
 
 <div align="center">
